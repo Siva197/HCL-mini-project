@@ -1,0 +1,10 @@
+
+Database Name : bnkms
+
+//Staff Login Details 
+     
+** 
+     username : 210001
+     password : password 
+                  
+                             **
